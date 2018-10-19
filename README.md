@@ -1,0 +1,3 @@
+# CodeLol
+
+Lolcat for VSCode
