@@ -2,7 +2,7 @@
   "name": "code-lol",
   "displayName": "CodeLol",
   "description": "Lolcat for VSCode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "EnsignPayton",
   "engines": {
     "vscode": "^1.28.0"
@@ -21,6 +21,10 @@
         "title": "lolcat"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EnsignPayton/code-lol.git"
   },
   "scripts": {
     "vscode:prepublish": "npm run compile",
